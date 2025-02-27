@@ -2,8 +2,6 @@
 // 12S24030 - Swasti Maristella Sihombing
 
 #include <stdio.h>
-#include <string.h>
-
 
 int main(int _argv, char **_argc) {
   char msk[60];
