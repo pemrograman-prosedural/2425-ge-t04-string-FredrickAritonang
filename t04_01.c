@@ -7,7 +7,7 @@
 
   int main(int _argv, char **_argc) {
 
-  char msk[60];
+  char msk[61];
   int i;
   int ASCII;
   char ASCII2;
