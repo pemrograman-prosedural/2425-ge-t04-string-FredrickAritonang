@@ -65,7 +65,7 @@ Selanjutnya, program akan mengkonversi setiap karakter menjadi nilai ASCII (desi
 
 Dengan demikian, Icarus Message yang terbentuk dan ditampilak dalam satu baris keluaran ke ```stdout``` adalah
 ```
-066105103032079
+0661051030329
 
 ```
 
